@@ -93,6 +93,7 @@ notebook==6.5.3
 notebook_shim @ file:///C:/b/abs_ebfczttg6x/croot/notebook-shim_1668160590914/work
 numexpr @ file:///C:/b/abs_a7kbak88hk/croot/numexpr_1668713882979/work
 numpy==1.24.2
+pip==23.0.1
 packaging==23.0
 pandas @ file:///C:/b/abs_b9kefbuby2/croot/pandas_1677835593760/work
 pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
